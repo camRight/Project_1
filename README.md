@@ -47,6 +47,6 @@ https://rapidapi.com/LemmoTresto/api/joke3
 
 - GitHub page: https://victortran415.github.io/Creative_Cocktails/
 
-- Repo Page: https://github.com/Victortran415/Creative_Cocktails
+- Repo Page: https://camright.github.io/SQL_Querying_Cocktails/
 
 
