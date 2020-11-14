@@ -45,7 +45,7 @@ https://rapidapi.com/LemmoTresto/api/joke3
 
 # Links to Deploy Application
 
-- GitHub page: https://victortran415.github.io/Creative_Cocktails/
+- GitHub page: https://github.com/camRight/SQL_Querying_Cocktails
 
 - Repo Page: https://camright.github.io/SQL_Querying_Cocktails/
 
